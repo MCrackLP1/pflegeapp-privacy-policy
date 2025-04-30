@@ -1,4 +1,4 @@
-# Datenschutzrichtlinie für PflegeApp
+# Datenschutzrichtlinie für Pflege-Buddy
 
 ## 1. Einleitung
 Diese Datenschutzrichtlinie beschreibt, wie PflegeApp ("wir", "uns" oder "unser") Ihre personenbezogenen Daten sammelt, verwendet und schützt, wenn Sie unsere mobile Anwendung (die "App") nutzen.
